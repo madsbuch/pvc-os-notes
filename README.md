@@ -15,7 +15,7 @@ material into something more coherent.
 
 ## Reward
 Each person having pull requests accepted will receive a special reward at the
-next tutorial not to mention th eternal glory.
+next tutorial not to mention the eternal glory.
 
 ## Structure
 A basic structure for the notes are provided. The following are the folders
