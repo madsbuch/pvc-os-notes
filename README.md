@@ -29,7 +29,4 @@ that should be in the root.
 Conventions are to enforce a homogenous layout. If these are not met the pull
 request is __not__ accepted and there is no reward.
 
-* The language of these notes is English
-* Everything is written in plain markdown. Means of generating nice looking
-  pdf files is provided in the instructions folder.
 * Folders and filenames are named after unix filenaming convetions.
